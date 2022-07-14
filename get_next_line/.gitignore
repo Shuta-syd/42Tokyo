@@ -1,0 +1,6 @@
+*/*
+./gnlTester/*
+./42test-gnl-station-2022/*
+!/*.c
+!/*.h
+!/Makefile
