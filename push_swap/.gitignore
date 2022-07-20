@@ -1,0 +1,5 @@
+.DS_Store
+src/.DS_Store
+checker_Mac
+./push_swap_tester/*
+./rev/
